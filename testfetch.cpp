@@ -1,0 +1,4 @@
+void testfetch()
+{
+	printf("testfetch");
+}
